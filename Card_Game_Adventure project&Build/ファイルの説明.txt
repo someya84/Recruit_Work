@@ -1,0 +1,5 @@
+Card_Game_Adventure
+作品プロジェクト バージョン:2019.3.11f1
+
+CardGameAdventure_Build
+作品の実行ファイル
